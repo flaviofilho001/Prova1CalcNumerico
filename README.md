@@ -9,8 +9,12 @@ Para a resolução da questão 1 foi utilizado o método da bisseção.Com o int
 
 ![quest1](imgs/quest1.png)
 
+# Questão 2
+
 Para a resolução da questão 2
 ![quest2](imgs/quest2.png)
+
+# Questão 3
 
 Para a resolução da questão 3
 ![quest4](imgs/quest4.png)
