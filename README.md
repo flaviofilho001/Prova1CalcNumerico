@@ -1,3 +1,5 @@
+![ufpb](imgs/ufpb.png)
+
 # Prova 1 Cálculo Numérico
 
 - Aluno : Flávio Mesquita Marinho Filho
@@ -5,7 +7,11 @@
 
 # Relatório
 
-- Foi utilizado o jupyter notebook com a linguagem python para resolução das questões 1, 2 e 4.
+- Foi utilizado o jupyter notebook com a linguagem python para resolução das questões 1, 2 e 4. Para tal foram utilizados as devidas bibliotecas em python para as melhores finalidades, como o numpy para realizar calculos e utilizar suas funções tais como o np.log para realizar calculos logaritmicos. A biblioteca Pandas para gerar os dataframes e a biblioteca matplotlib que ao utilizar os dataframes do pandas ela plota os gráficos que foram utilizados.
+
+### Detalhes
+
+- O código está no github no arquivo "questoes", lá está o código em python completo.
 
 ### Bibliotecas
 
