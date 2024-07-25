@@ -3,6 +3,17 @@
 - Aluno : Flávio Mesquita Marinho Filho
 - Matrícula : 20230146390
 
+# Relatório 
+
+- Foi utilizado o jupyter notebook com a linguagem python para resolução das questões 1, 2 e 4.
+
+## Bibliotecas
+- Numpy
+- Pandas
+- Math
+
+- Poderia ter utilizado o matplot para gerar gráficos ao longo das interações, porém o tempo foi curto. Portanto, foi utilizada a biblioteca Pandas para gerar os dataframes.
+
 # Questão 1
 
 Para a resolução da questão 1 foi utilizado o método da bisseção.Com o intervalo de [6,8] foi analisado que os resultados obtidos foram raiz t=7,98 para v=100, sendo o erro de 8%.
